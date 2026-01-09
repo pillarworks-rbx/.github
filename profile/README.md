@@ -7,4 +7,5 @@ pillarworks is an etoh fangame. nothing else to it.
 
 ## socials
 - discord: https://discord.gg/EFay8r3UsR
-- game link: none yet
+- roblox group: https://www.roblox.com/communities/637088148/team-pillarworks
+- game link: n/a
